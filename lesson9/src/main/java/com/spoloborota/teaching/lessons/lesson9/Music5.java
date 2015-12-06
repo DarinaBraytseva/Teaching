@@ -1,6 +1,4 @@
-package com.spoloborota.teaching.lessons.lesson8.interf;
-
-import com.spoloborota.teaching.lessons.lesson8.music.Note;
+package com.spoloborota.teaching.lessons.lesson9;
 
 interface Instrument {
 	// Compile-time constant:
